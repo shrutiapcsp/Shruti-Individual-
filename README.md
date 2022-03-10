@@ -8,14 +8,14 @@
    </tr>
    <tr>
     <td>Test Prep</td>
-    <td> <a href="https://github.com/sanvi1855544">Wiki</a> </td>
+    <td> <a href="https://github.com/shrutiapcsp/Shruti-Individual-/wiki/Test-Prep-Study">Wiki</a> </td>
   </tr>
   <tr>
     <td>Data Structures Project </td>
-    <td> <a href="https://github.com/sanvi1855544">Wiki</a> </td>
+    <td> <a href="https://github.com/shrutiapcsp/Shruti-Individual-/wiki/Data-Structures-Project-Documentation">Wiki</a> </td>
   </tr>
   <tr>
     <td> Create Task Documentation </td>
-    <td> <a href="https://github.com/sanvi1855544">Wiki</a> </td>
+    <td> <a href="https://github.com/shrutiapcsp/Shruti-Individual-/wiki/Create-Task-Documentation">Wiki</a> </td>
   </tr>
   <tr>
