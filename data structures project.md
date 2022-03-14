@@ -3,11 +3,11 @@
 
 
 
-- Menu and sub-menu [Replit](https://replit.com/@shrutiapcsp/Menu-and-sub-menu#main.py) [Code]()
-- Swap [Replit](https://replit.com/@shrutiapcsp/swap#main.py) [Code]()
-- Keypad [Replit](https://replit.com/@shrutiapcsp/keypad#main.py) [Code]()
-- Christmas Tree [Replit](https://replit.com/@shrutiapcsp/christmas#main.py) [Code]()
-- Animation [Replit](https://replit.com/@shrutiapcsp/animation#main.py) [Code]()
+- Menu and sub-menu [Replit](https://replit.com/@shrutiapcsp/Menu-and-sub-menu#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/menu.py)
+- Swap [Replit](https://replit.com/@shrutiapcsp/swap#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/swap.py)
+- Keypad [Replit](https://replit.com/@shrutiapcsp/keypad#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/keypad.py)
+- Christmas Tree [Replit](https://replit.com/@shrutiapcsp/christmas#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/Tree.py)
+- Animation [Replit](https://replit.com/@shrutiapcsp/animation#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/animation.py)
 
 ![image](https://user-images.githubusercontent.com/89223650/157573109-d423a806-cba4-4b01-95a5-68252827e6bc.png)
 
