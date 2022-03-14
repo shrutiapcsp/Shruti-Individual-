@@ -6,7 +6,7 @@
 [Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/2)
 | Github Pages | Jekyll Page (with content and links)                                                        | 
 | --- |---------------------------------------------------------------------------------------------|
-| Test Prep | [Jekyll Page](https://shrutiapcsp.github.io/Shruti-Individual-/test%20prep)                 |
+| Test Prep (5.3, 5.4) | [Jekyll Page](https://shrutiapcsp.github.io/Shruti-Individual-/test%20prep)                 |
 | Lists, Loops, Fibonacci | [Jekyll Page](https://shrutiapcsp.github.io/Shruti-Individual-/data%20structures%20project) | 
 
 
@@ -15,6 +15,6 @@
 
 | Github Pages | Jekyll Page (with content and links)                                                        | 
 | --- |---------------------------------------------------------------------------------------------|
-| Test Prep | [Jekyll Page](https://shrutiapcsp.github.io/Shruti-Individual-/test%20prep)                 |
+| Test Prep (5.1, 5.2) | [Jekyll Page](https://shrutiapcsp.github.io/Shruti-Individual-/test%20prep)                 |
 | Data Structures Project | [Jekyll Page](https://shrutiapcsp.github.io/Shruti-Individual-/data%20structures%20project) | 
 | Create Task Project for College Board | [Jekyll Page](https://shrutiapcsp.github.io/Shruti-Individual-/create%20task%20project)  
