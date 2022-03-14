@@ -1,6 +1,45 @@
 # Shruti-Individual-Github Page
 
 ## Git Hub Pages
+## Week 1 - Test Prep
+### (5.3-5.4 Notes, Github Actions)
+
+### **5.3 - 5.4 Notes:**
+
+**5.3 Computer Bias**:
+
+- Humans are error prone and biased
+- Computing bias can be intentional or purposeful
+- Facebook/TikTok/Netflix has purposeful exclusion with their algorithms
+- Computing innovations reflect human biases written into algorithms (enhancing or intentionally excluding, harmful/hateful, receiving feedback from wide variety of people)
+- Explicit Data: Thumbs, Name, address 
+- Implicit Data: When you watch, What you watched, Style of show frequently selected
+
+**5.4 Crowdsourcing**: 
+- Crowdsourcing: obtaining input/info from large number of people via Internet 
+- Models for collaboration- connecting businesses, social causes 
+- Distributed and “citizen science” to solve problems 
+- Individuals (not scientists) who contribute relevant data
+- Wikipedia uses crowdsourcing, can be innacurate
+- Crypto/ exchanges of money validated by independent miners
+- Flaws: checked, performed again
+- COVID data has been essential for public events 
+- Crowdsourcing through API's, GitHub code
+
+## **GitHub Actions:**
+**5.3 Computer Bias**:
+1. Video Reflection
+- Does the owner of the computer think this was intentional? 
+- If yes or no, justify you conclusion. 
+- How do you think this happened? 
+- Is this harmful? Was it intended to be harmful or exclude? 
+- Should it be corrected? 
+- What would you or should you do to produce a better outcome?
+
+**5.4 Crowdsourcing**:
+1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment? 
+2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+
 ## Week 0 - Test Prep 
 ### (5.1-5.2 Notes, Github Actions)
 

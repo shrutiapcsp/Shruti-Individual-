@@ -1,8 +1,6 @@
 ## Data Structures Project (Documentation, code snippets, links to Github and Replit)
 ### (code snippets for learning, links to Github code, replit runtime)
 
-
-
 - Menu and sub-menu [Replit](https://replit.com/@shrutiapcsp/Menu-and-sub-menu#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/menu.py)
 - Swap [Replit](https://replit.com/@shrutiapcsp/swap#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/swap.py)
 - Keypad [Replit](https://replit.com/@shrutiapcsp/keypad#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/keypad.py)
