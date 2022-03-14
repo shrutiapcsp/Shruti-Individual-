@@ -1,21 +1,11 @@
 # Shruti-Individual-Github Page
 
 ## Git Hub Pages
-<table>
-   <tr>
-    <th>Assignment</th>
-    <th>Link</th>
-   </tr>
-   <tr>
-    <td>Test Prep</td>
-    <td> <a href="https://github.com/shrutiapcsp/Shruti-Individual-/wiki/Test-Prep-Study">Wiki</a> </td>
-  </tr>
-  <tr>
-    <td>Data Structures Project </td>
-    <td> <a href="https://github.com/shrutiapcsp/Shruti-Individual-/wiki/Data-Structures-Project-Documentation">Wiki</a> </td>
-  </tr>
-  <tr>
-    <td> Create Task Documentation </td>
-    <td> <a href="https://github.com/shrutiapcsp/Shruti-Individual-/wiki/Create-Task-Documentation">Wiki</a> </td>
-  </tr>
-  <tr>
+
+## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
+
+| Github Pages | Jekyll Page (with content and links)                                                               | 
+| --- |----------------------------------------------------------------------------------------------------|
+| Test Prep | [Jekyll Page](https://shrutiapcsp.github.io/Individual-Algorithmic-Project/TestPrep)               |
+| Data Structures Project | [Jekyll Page](https://shrutiapcsp.github.io/Individual-Algorithmic-Project/DataStructuresProject) | 
+| Create Task Project for College Board | [Jekyll Page](https://shrutiapcsp.github.io/Individual-Algorithmic-Project/CreateTask)            
