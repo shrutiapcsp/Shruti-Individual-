@@ -3,6 +3,7 @@
 ## Git Hub Pages
 
 ## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
+[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/1)
 
 | Github Pages | Jekyll Page (with content and links)                                                        | 
 | --- |---------------------------------------------------------------------------------------------|
