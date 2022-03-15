@@ -37,7 +37,7 @@
 
 **5.4 Crowdsourcing**:
 1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment? A google survey, sent through slack, could be used to obtain information from computer science princples about their opinions on improvements that can be made to the class.
-2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing? Our final project, based on creating a test prep website for AP exams, could benefit from crowdsourcing. We can see what topics students desire to learn and what study methods work best for them through a google survey.
+2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing? Our final project, based on creating a test prep website for AP exams at Del Norte, could benefit from crowdsourcing. We can see what topics students desire to learn and what study methods work best for them through a google survey.
 
 ## Week 0 - Test Prep 
 ### (5.1-5.2 Notes, Github Actions)
