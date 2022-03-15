@@ -29,16 +29,15 @@
 ## **GitHub Actions:**
 **5.3 Computer Bias**:
 1. Video Reflection
-- Does the owner of the computer think this was intentional? 
-- If yes or no, justify you conclusion. 
-- How do you think this happened? 
-- Is this harmful? Was it intended to be harmful or exclude? 
-- Should it be corrected? 
-- What would you or should you do to produce a better outcome?
+- Does the owner of the computer think this was intentional? No I doubt this was intentional because a large company like HP with diverse employees likely did not seek to exclude particular races.
+- How do you think this happened? The workers at companies influence the products they make. I predict that HP has mostly caucasian engineers working on this product, and therefore they neglected to address the implications of other skin colors on their technology.
+- Is this harmful? Was it intended to be harmful or exclude? This is incredibly harmful and shameful on the part of HP's technological team. In a diverse world, it is essential that people feel represented in the technology they use. This can be seen as a form of discrimination that can have serious implications if repeated in other forms of techology.
+- Should it be corrected? Yes this should be corrected to represent all of HP's customers.
+- What would you or should you do to produce a better outcome? The first step is to ensure that HP is promoting an inclusive and diverse environment. Next, the engineers need to address the technology they used and see if one's skin color is impacting the recognition of faces or if this is a more nuanced issue. 
 
 **5.4 Crowdsourcing**:
-1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment? 
-2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment? A google survey, sent through slack, could be used to obtain information from computer science princples about their opinions on improvements that can be made to the class.
+2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing? Our final project, based on creating a test prep website for AP exams, could benefit from crowdsourcing. We can see what topics students desire to learn and what study methods work best for them through a google survey.
 
 ## Week 0 - Test Prep 
 ### (5.1-5.2 Notes, Github Actions)
