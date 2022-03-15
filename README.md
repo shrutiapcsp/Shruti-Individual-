@@ -9,7 +9,6 @@
    <tr>
     <th>Github Page</th>
     <th>Jekyll Page with Links</th>
-    <th>Commits</th>
    </tr>
    <tr>
     <td>Test Prep (5.3, 5.4)</td>
