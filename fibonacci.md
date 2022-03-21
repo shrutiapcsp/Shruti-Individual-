@@ -1,4 +1,3 @@
-{% include navigation.html %}
 
 
 | Task | Replit Runtime | Code Commit | 
