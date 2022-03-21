@@ -41,7 +41,7 @@
     <td>Data Structures Project</td>
     <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/data%20structures%20project">Jekyll Page</a> </td>
 <tr>
-    <td>Create Task Project for College Board</td>
+    <td>Create Task Project</td>
     <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/create%20task%20project">Jekyll Page</a> </td>
   </tr>
 
