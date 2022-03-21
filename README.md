@@ -15,8 +15,11 @@
     <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/test%20prep">Jekyll Page</a> </td>
   </tr>
   <tr>
-    <td> Data Structures Project </td>
-    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/data%20structures%20project">Jekyll Page</a> </td>
+    <td>InfoDB Lists & Loops</td>
+    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/listsLoops">Jekyll Page</a> </td>
+<tr>
+    <td>Fibonacci</td>
+    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/fibonacci">Jekyll Page</a> </td>
   </tr>
   
 </table>
