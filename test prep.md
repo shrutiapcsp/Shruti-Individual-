@@ -1,6 +1,51 @@
 # Shruti-Individual-Github Page
 
 ## Git Hub Pages
+## Week 2- Test Prep
+### (5.5-5.6 Notes, Github Actions)
+
+**5.5: Legal and Ethical Concerns**:
+Licenseing
+- Open Source (General Public Liscencing): any derivative work free, code shared
+- Black Duck Software composition analysis helps teams manage risks from using open source and third party code
+- Patent: derivative work requires royalty payment, using idea must pay royalty
+License Communities/Types
+- Address: waiving copyright, allowing derrivative works, sharing of derivative code
+- Creative Commons: waives copyright interest, world-wide domain
+- Open Source MIT Licence: use code freely, make/distribute in closed source
+- Open Source GPL License: anything except distributing closed source versions
+Legal/Ethic
+- Need to cite sources
+- Use open source according to terms of license
+
+**5.6: Safe Computing**
+Personal Identifiable Information
+- Things known by everyone: name, email, picture, high school, college, credit, etc
+- Gray = more cautious: birthdate, place of birth, street address, phone number, drivers license number
+- Secret = credentials for accoss, social security number, tax records
+Safety
+- Multi-factor authentication
+- Malware sent in attachments in email
+- Phishing to get virus on machine
+Increasing Safety
+- Multi Factor authetication
+- Biometrics: fingerprints, facial recognition
+- Symmetric encryption: one key used to encrypt and decrypt electronic information
+- Assymetric cryptography: one public key, one private key to encrypt and decrypt message
+- SSL uses asymetric and symmetric encryption
+## **GitHub Actions:**
+**5.5 Legal and Ethical Concerns**:
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+2. Make a license for your personal and Team project. Document license you picked and why.
+
+**5.6: Safe Computing**
+1. Describe PII you have seen on project in CompSci Principles. 
+2. What are your feelings about PII and your exposure? 
+3. Describe good and bad passwords? What is another step that is used to assist in authentication. 
+4. Try to describe Symmetric and Asymmetric encryption. 
+5. Provide and example of encryption we used in deployment. 
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
 ## Week 1 - Test Prep
 ### (5.3-5.4 Notes, Github Actions)
 
