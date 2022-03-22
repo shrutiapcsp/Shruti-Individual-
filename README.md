@@ -2,10 +2,11 @@
 
 ## Git Hub Pages
 
-## [Week 2- Classy Functions]
-[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/3)
 
 <table>
+## [Week 2- Classy Functions] <br>
+[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/3)
+
    <tr>
     <th>Github Page</th>
     <th>Jekyll Page with Links</th>
@@ -27,8 +28,7 @@
 <br>
 
 <table>
-
-## [Week 1 - Lists & Loops]
+## [Week 1 - Lists & Loops] <br>
 [Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/2)
 
    <tr>
@@ -51,9 +51,9 @@
 
 <br>
 
-## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
-[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/1)
 <table>
+## [Week 0 - Test Prep, Data Structures Project, Create Task Project] <br>
+[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/1)
    <tr>
     <th>Github Page</th>
     <th>Jekyll Page with Links</th>
