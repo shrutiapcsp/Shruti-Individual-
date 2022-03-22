@@ -23,8 +23,6 @@
     <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/fibonacci">Jekyll Page</a> </td>
   </tr>
 
-</>
-
 <br>
 
 <th> Week 1 - Lists & Loops <th>
