@@ -2,6 +2,30 @@
 
 ## Git Hub Pages
 
+## [Week 2- Classy Functions]
+[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/3)
+
+<table>
+   <tr>
+    <th>Github Page</th>
+    <th>Jekyll Page with Links</th>
+   </tr>
+   <tr>
+    <td>Test Prep (5.5, 5.6)</td>
+    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/test%20prep">Jekyll Page</a> </td>
+  </tr>
+  <tr>
+    <td>Factorial Function</td>
+    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/listsLoops">Jekyll Page</a> </td>
+<tr>
+    <td>Math Function</td>
+    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/fibonacci">Jekyll Page</a> </td>
+  </tr>
+
+</table>
+
+<br>
+
 ## [Week 1 - Lists & Loops]
 [Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/2)
 
