@@ -26,10 +26,11 @@
 
 <br>
 
+<table>
+
 ## [Week 1 - Lists & Loops]
 [Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/2)
 
-<table>
    <tr>
     <th>Github Page</th>
     <th>Jekyll Page with Links</th>
