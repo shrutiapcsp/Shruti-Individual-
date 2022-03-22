@@ -4,8 +4,8 @@
 
 
 <table>
-## [Week 2- Classy Functions] <br>
-[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/3)
+## Week 2- Classy Functions <br>
+<a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/3">Review Ticket</a>
 
    <tr>
     <th>Github Page</th>
@@ -28,8 +28,8 @@
 <br>
 
 <table>
-## [Week 1 - Lists & Loops] <br>
-[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/2)
+## Week 1 - Lists & Loops <br>
+<a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/2">Review Ticket</a>
 
    <tr>
     <th>Github Page</th>
@@ -52,8 +52,8 @@
 <br>
 
 <table>
-## [Week 0 - Test Prep, Data Structures Project, Create Task Project] <br>
-[Review Ticket](https://github.com/shrutiapcsp/Shruti-Individual-/issues/1)
+## Week 0 - Test Prep, Data Structures Project, Create Task Project <br>
+<a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/1">Review Ticket</a>
    <tr>
     <th>Github Page</th>
     <th>Jekyll Page with Links</th>
