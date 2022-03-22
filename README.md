@@ -4,7 +4,7 @@
 
 
 <table>
-## Week 2- Classy Functions <br>
+<th>Week 2- Classy Functions <th>
 <a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/3">Review Ticket</a>
 
    <tr>
@@ -28,7 +28,7 @@
 <br>
 
 <table>
-## Week 1 - Lists & Loops <br>
+<th> Week 1 - Lists & Loops <th>
 <a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/2">Review Ticket</a>
 
    <tr>
@@ -52,7 +52,7 @@
 <br>
 
 <table>
-## Week 0 - Test Prep, Data Structures Project, Create Task Project <br>
+<th> Week 0 - Test Prep, Data Structures Project, Create Task Project<th>
 <a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/1">Review Ticket</a>
    <tr>
     <th>Github Page</th>
