@@ -3,7 +3,7 @@
 ## Git Hub Pages
 
 
-<table>
+
 <th>Week 2- Classy Functions <th>
 <a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/3">Review Ticket</a>
 
@@ -23,11 +23,10 @@
     <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/fibonacci">Jekyll Page</a> </td>
   </tr>
 
-</table>
+</>
 
 <br>
 
-<table>
 <th> Week 1 - Lists & Loops <th>
 <a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/2">Review Ticket</a>
 
@@ -46,12 +45,9 @@
     <td>Fibonacci</td>
     <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/fibonacci">Jekyll Page</a> </td>
   </tr>
-  
-</table>
 
 <br>
 
-<table>
 <th> Week 0 - Test Prep, Data Structures Project, Create Task Project<th>
 <a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/1">Review Ticket</a>
    <tr>
@@ -69,7 +65,5 @@
     <td>Create Task Project</td>
     <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/create%20task%20project">Jekyll Page</a> </td>
   </tr>
-
-</table>
 
 <br>
