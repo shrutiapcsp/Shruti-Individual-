@@ -29,7 +29,7 @@ Safety
 - Malware sent in attachments in email
 - Phishing to get virus on machine
 Increasing Safety
-- Multi Factor authentication
+- Multi-Factor authentication
 - Biometrics: fingerprints, facial recognition
 - Symmetric encryption: one key used to encrypt and decrypt electronic information
 - Asymmetric cryptography: one public key, one private key to encrypt and decrypt message
