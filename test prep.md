@@ -6,15 +6,16 @@
 
 **5.5: Legal and Ethical Concerns**:
 Licensing
-- Open Source (General Public Licencing): any derivative work free, code shared
+- Open Source (General Public Licencing): any derivative work free, code shared -> download Linux off the internet for "free"
 - Black Duck Software composition analysis helps teams manage risks from using open source and third party code
 - Patent: derivative work requires royalty payment, using idea must pay royalty
+- Free + patent -> anything derrived is free (violates the patent)
 License Communities/Types
 - Address: waiving copyright, allowing derrivative works, sharing of derivative code
 - Creative Commons: waives copyright interest, world-wide domain
 - Open Source MIT Licence: use code freely, make/distribute in closed source
 - Open Source GPL License: anything except distributing closed source versions
-Legal/Ethic
+Legal/Ethics
 - Need to cite sources
 - Use open source according to terms of license
 
