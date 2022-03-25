@@ -38,15 +38,16 @@ Increasing Safety
 ## **GitHub Actions:**
 **5.5 Legal and Ethical Concerns**:
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+Most of this information is listed in the 5.5 notes section. GitHub public license is similar to ones listed because information is open and allows for collaboration.
 2. Make a license for your personal and Team project. Document license you picked and why.
-
+MIT License seemed to be best because while I still get credit for my score, others can have access to my code. 
 **5.6: Safe Computing**
-1. Describe PII you have seen on project in CompSci Principles. 
-2. What are your feelings about PII and your exposure? 
-3. Describe good and bad passwords? What is another step that is used to assist in authentication. 
-4. Try to describe Symmetric and Asymmetric encryption. 
-5. Provide and example of encryption we used in deployment. 
-6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+3. Describe PII you have seen on project in CompSci Principles. We have used ReadMe to list the contributions of individuals in each group. It is a great way for people to get a cursory view at the projects completed by individuals.
+4. What are your feelings about PII and your exposure?  PIIs can be very helpful if used carefully. In that way it is like any online program. The user must be careful when it comes to privacy concerns. 
+5. Describe good and bad passwords? What is another step that is used to assist in authentication. Good passwords tend to have special characters with variation in uppercase and lowercase letters, and have many characters. To assist in authentication, many websites have multi-factor authentication where a code is sent to the user's email for example and the user has to enter the code into the platform.
+6. Try to describe Symmetric and Asymmetric encryption. Symmetric encryption uses one key to both encrypt and decrypt electronic information while asymmetric encryption uses a public and private key to encrypt and decrypt a message. This can protect from those who do not have access to the information. 
+7. Provide and example of encryption we used in deployment. During deployment we used an input of a key pair to deploy the updated code. 
+8. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques. When I was younger, I got an email about a free trip to Mexico and made the mistake of clicking the link. This ended up installing a virus and I had to do a full reboot and later install virus blockers to prevent this from happening again.  
 
 ## Week 1 - Test Prep
 ### (5.3-5.4 Notes, Github Actions)
