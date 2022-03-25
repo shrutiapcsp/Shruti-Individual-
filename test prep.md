@@ -40,7 +40,8 @@ Increasing Safety
 1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
 Most of this information is listed in the 5.5 notes section. GitHub public license is similar to ones listed because information is open and allows for collaboration.
 2. Make a license for your personal and Team project. Document license you picked and why.
-MIT License seemed to be best because while I still get credit for my score, others can have access to my code. 
+MIT License seemed to be best because while I still get credit for my score, others can have access to my code. <br>
+
 **5.6: Safe Computing**
 3. Describe PII you have seen on project in CompSci Principles. We have used ReadMe to list the contributions of individuals in each group. It is a great way for people to get a cursory view at the projects completed by individuals.
 4. What are your feelings about PII and your exposure?  PIIs can be very helpful if used carefully. In that way it is like any online program. The user must be careful when it comes to privacy concerns. 
