@@ -17,10 +17,10 @@
   </tr>
   <tr>
     <td>Factorial Function</td>
-    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/listsLoops">Jekyll Page</a> </td>
+    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/factorial">Jekyll Page</a> </td>
 <tr>
     <td>Math Function</td>
-    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/fibonacci">Jekyll Page</a> </td>
+    <td> <a href="https://shrutiapcsp.github.io/Shruti-Individual-/math">Jekyll Page</a> </td>
   </tr>
 
 </table>

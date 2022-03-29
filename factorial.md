@@ -1,6 +1,6 @@
 
 | Task      | Replit Runtime | Code Commit | 
 |-----------| --- | --- |
-| Factorial | [Replit runtime](https://replit.com/@shrutiapcsp/factorial#main.py)| [Commit](https://github.com/shrutiapcsp/Shruti-Individual-/commit/9d6f88f4fa8a4751354399ef2accd750625211e1) |
+| Factorial | [Replit runtime](https://replit.com/@shrutiapcsp/factorial#main.py)| [Commit](https://github.com/shrutiapcsp/Shruti-Individual-/commit/acb3255b4165e354a49ee8d62848d9f4a5157920) |
 
 {% include factorial.html %}
