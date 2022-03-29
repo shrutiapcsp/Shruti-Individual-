@@ -4,7 +4,7 @@
 
 
 <table>
-<th>Week 2- Classy Functions <th>
+<th> Week 2- Classy Functions <th>
 <a href="https://github.com/shrutiapcsp/Shruti-Individual-/issues/3">Review Ticket</a>
 
    <tr>
