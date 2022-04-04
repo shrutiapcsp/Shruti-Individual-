@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Shruti-Individual-Github Page
 
 ## Git Hub Pages
