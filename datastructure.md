@@ -3,9 +3,8 @@
 ### (code snippets for learning, links to Github code, replit runtime)
 
 <div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="1000px" width="700px" src="https://replit.com/@shrutiapcsp/shrutidatastructure?lite=true#main.py"></iframe>
+    <iframe height="1000px" width="700px" src="https://replit.com/@shrutiapcsp/shrutidatastructureslite=true#main.py"></iframe>
 </div>
-
 
 
 - Menu and sub-menu [Replit](https://replit.com/@shrutiapcsp/Menu-and-sub-menu#main.py) [Code](https://github.com/shrutiapcsp/Shruti-Individual-/blob/main/templates/menu.py)
