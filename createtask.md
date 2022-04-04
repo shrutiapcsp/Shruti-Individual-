@@ -1,3 +1,4 @@
+{% include navigation.html %}
 ## Create Task Project
 
 [Issue](https://github.com/sanvi1855544/p3-avatar/issues/42)
