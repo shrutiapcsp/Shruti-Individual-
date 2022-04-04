@@ -28,3 +28,20 @@ def driver():
         print(sp + "  \___/ ")
         print(RESET_COLOR)
 
+
+    ocean_print()
+
+
+
+    start = 60
+    distance = -60
+    step = -1
+
+
+    for position in range(start, distance, step):
+        ship_print(position)
+        time.sleep(0.05)
+
+if __name__ == "__main__":
+    print("hello")
+    driver()
