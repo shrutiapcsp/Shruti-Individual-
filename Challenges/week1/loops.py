@@ -1,33 +1,32 @@
 #See hack 1 above, InfoDB lists
 #See hack 2 above, InfoDB loops
-def driver():
-    # List with dictionary records placed in a list
-  
-  InfoDb = []
 # List with dictionary records placed in a list
-  InfoDb.append({
-    "FirstName": "John",
-    "LastName": "Mortensen",
-    "DOB": "October 21",
+
+InfoDb = []
+# List with dictionary records placed in a list
+InfoDb.append({
+    "FirstName": "Shruti",
+    "LastName": "Chari",
+    "DOB": "October 6",
     "Residence": "San Diego",
-    "Email": "jmortensen@powayusd.com",
-    "Owns_Cars":["2015 Fusion","2011 Ranger","2003 Excursion","1997 F-350", "1969 Cadillac"]
+    "Email": "shrutijchari@gmail.com",
+    "Owns_Devices":["Macbook Air","AirPods","IPad","IPhone",]
 })
 
-  InfoDb.append({
-    "FirstName": "Sunny",
-    "LastName": "Naidu",
-    "DOB": "August 2",
+InfoDb.append({
+    "FirstName": "Shrea",
+    "LastName": "Chari",
+    "DOB": "May 18",
     "Residence": "San Diego",
-    "Email": "snaidu@powayusd.com",
-    "Owns_Cars":["A","B","C"]
+    "Email": "shreachari@gmail.com",
+    "Owns_Devices":["Galaxy Tablet","IPod touch","IPhone", "Macbook Pro"]
 })
 
 # given an index this will print InfoDb content
 def print_data(n):
     print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
-    print("\t", "Cars: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-    print(", ".join(InfoDb[n]["Owns_Cars"]))  # join allows printing a string list with separator
+    print("\t", "Devices: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["Owns_Devices"]))  # join allows printing a string list with separator
     print()
 
 # Hack 2: InfoDB loops. Print values from the lists using three different ways: for, while, recursion
@@ -63,7 +62,9 @@ def recur_factorial(n):
     else:
         return n * recur_factorial(n-1)
 
-def tester():
+
+def info():
+
     print("For loop")
     for_loop()
     print("While loop")
@@ -71,6 +72,9 @@ def tester():
     print("Recursive loop")
     recursive_loop(0)  # requires initial index to start recursion
 
+def driver():
+    info()
 
 if __name__ == "__main__":
     driver()
+
