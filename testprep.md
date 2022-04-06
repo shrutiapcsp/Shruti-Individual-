@@ -3,6 +3,16 @@
 # Shruti-Individual-Github Page
 
 ## Git Hub Pages
+## Week 4- Accounts and Login
+- Using Flask_Login and app routes 
+- MVC: Model View Control
+- App is an object variable, allows entire application to run
+- login_manager is an object variable which is related to the app (whole component of website)
+MODEL: import UserMixin; authentication, anonymous (guest user); get_id to get function to work
+VIEW: make form 
+CONTROL: every python file has a driver function that is called in the menu. This "drives" the view, startes the HTML page.
+- flask_login.login_required which allows access to the page, need login; if no login ->  unauthorized
+
 ## Week 2- Test Prep
 ### (5.5-5.6 Notes, Github Actions)
 
