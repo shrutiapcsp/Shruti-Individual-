@@ -7,15 +7,19 @@
 Monday: Review Big Idea 1-3 
 - go through videos on AP Classroom, rewatch any videos if unsure about topics
 - do online practice multiple choice questions for these units
+
 Tuesday: Review Big Idea 4-5 & Mock Exam 1
 - go through videos on AP Classroom, rewatch any videos if unsure about topics
 - do online practice multiple choice questions for these units
+
 Wednesday: Exam review
 - go over all missed questions on practice exam #1
 - test corrections: explain correct answer/ why answer corrected was wrong
+
 Thursday: Create Task and video & Mock Exam 2
 - go over code/write-up/video for create task
 - make sure all requirements are fulfilled, have peer or teacher review 
+
 Friday: Exam review
 - go over all missed questions on practice exam #1
 - test corrections: explain correct answer/ why answer corrected was wrong
