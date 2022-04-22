@@ -25,7 +25,8 @@ Friday: Exam review
 - test corrections: explain correct answer/ why answer corrected was wrong
 
 Study Reflection:
-
+[MC Test Corrections](https://docs.google.com/document/d/1BhCTPZmY2idLUnKl3EUCAQHYSGXWMNr2XU4Ts4LwA5c/edit?usp=sharing)
+I think reviewing some of the videos in addition to doing dilligent test corrections really helped me understand the content. I am proud of my progress and ability to quickly learn and apply these terms. 
 
 ## Week 4- Accounts and Login
 - Using Flask_Login and app routes 
