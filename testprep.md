@@ -4,6 +4,26 @@
 ## Git Hub Pages
 
 ## AP Exam Study Plan
+WEEK 2
+Monday: Create Task
+- have finalized create task: write up, video, code completed
+
+Tuesday: Mock Exam 3
+- take MCQ 3
+
+Wednesday: Review results from Mock Exam 3
+- test corrections for wrong problems
+- go through all problems and find common mistakes
+
+Thursday: Review Create Task
+- get own create task crossover graded
+- review crossover's and see what I can change/implement into mine
+
+Friday: Concept Review
+- go over concepts most missed in past three MCQ
+- watch review videos from College Board
+
+WEEK 1
 Monday: Review Big Idea 1-3 
 - go through videos on AP Classroom, rewatch any videos if unsure about topics
 - do online practice multiple choice questions for these units
