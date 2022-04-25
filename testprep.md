@@ -5,6 +5,7 @@
 
 ## AP Exam Study Plan
 WEEK 2
+
 Monday: Create Task
 - have finalized create task: write up, video, code completed
 
@@ -24,6 +25,7 @@ Friday: Concept Review
 - watch review videos from College Board
 
 WEEK 1
+
 Monday: Review Big Idea 1-3 
 - go through videos on AP Classroom, rewatch any videos if unsure about topics
 - do online practice multiple choice questions for these units
